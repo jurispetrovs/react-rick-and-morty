@@ -1,0 +1,19 @@
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.margin-bottom--8 {
+    margin-bottom: 8px;
+}
+
+.margin-bottom--16 {
+    margin-bottom: 16px;
+}
+
+.margin-bottom--24 {
+    margin-bottom: 24px;
+}
+
+.margin-bottom--32 {
+    margin-bottom: 32px;
+}
